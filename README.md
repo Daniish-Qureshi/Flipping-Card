@@ -24,7 +24,7 @@ The background incorporates a linear gradient to enhance the overall aesthetics,
 - Interactive Flip Animation: The card flips smoothly when hovered over, providing an engaging user experience.
 - Hover Effects: Interactive hover effects for an engaging user experience.
 - Realistic Design: A carefully crafted linear gradient background adds depth and realism to the card flip effect.
-- Simple and Clean Code: The project is built using clean and well-organized HTML, CSS, and JavaScript, making it easy to understand and modify.
+- Simple and Clean Code: The project is built using clean and well-organized HTML & CSS making it easy to understand and modify.
 
 ## Technologies Used
 
