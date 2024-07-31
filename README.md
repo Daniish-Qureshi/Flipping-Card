@@ -1,4 +1,4 @@
-# Project Name: Flipping Card
+# Flipping Card
 
 ## Demo Screenshots
 
